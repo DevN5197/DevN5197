@@ -1,5 +1,5 @@
 ## Hi there 👋
----
+
 ### 👨‍💻 About Me
 I'm a first-year Computer Science student at **Sardar Vallabhbhai National Institute of Technology, Surat**. Currently I'm exploring various avenues in this field.
 <!--
