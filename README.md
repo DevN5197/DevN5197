@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+---
+### 👨‍💻 About Me
+I'm a first-year Computer Science student at **Sardar Vallabhbhai National Institute of Technology, Surat**. Currently I'm exploring various avenues in this field.
 <!--
 **DevN5197/DevN5197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
