@@ -5,7 +5,7 @@ I'm a first-year Computer Science student at **Sardar Vallabhbhai National Insti
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dev-nandan-ajith/) 
+[![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/dev-nandan-ajith)
 <!--
 **DevN5197/DevN5197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
