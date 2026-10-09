@@ -24,9 +24,6 @@ I'm a second-year Computer Science undergraduate student at **Sardar Vallabhbhai
   <a href="https://www.linkedin.com/in/dev-nandan-ajith">
     <img src="https://i.sstatic.net/gVE0j.png" width="28">
   </a>
-  <a href="https://www.instagram.com/devx.7n">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="mailto:pawothildev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
