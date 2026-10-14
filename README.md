@@ -1,6 +1,6 @@
 ## Hi! I'm Dev Nandan Ajith 👋
 ### 👨‍💻 About Me
-I'm a second-year Computer Science undergraduate student at **Sardar Vallabhbhai National Institute of Technology, Surat**. Currently I'm exploring various avenues in this field.
+I'm a second-year Computer Science undergraduate student at **Sardar Vallabhbhai National Institute of Technology, Surat** from Kerala. Currently I'm exploring various avenues in this field.
 
 ---
 ## 🛠️ Tech Stack
