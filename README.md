@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Dev%20Nandan%20Ajith&fontSize=42&fontColor=FFFFFF&fontAlignY=50&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20Developer&descSize=16&descAlignY=75&descColor=9CA3AF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Dev%20Nandan%20Ajith&fontSize=42&fontColor=FFFFFF&fontAlignY=50&desc=Computer%20Science%20Undergraduate%20%7C%20Aspiring%20Builder&descSize=16&descAlignY=75&descColor=9CA3AF" width="100%" />
 
 <br/>
 
@@ -19,21 +19,14 @@
 
 ## About
 
-I'm a Computer Science undergraduate at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, interested in building practical software and solving engineering problems.
+I'm a Computer Science undergraduate in my 2nd year at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, interested in building/contributing to stuff that solves actual problems.
 
-- Developing full-stack applications and backend systems.
-- Exploring data structures, algorithms and software engineering.
+- Engineering full-stack applications and systems.
+- Exploring various technologies and subdomains in the fields of Computer Science and Technology as a whole.
+- Trying to be better at problem solving by improving my proficiency in Data Structures & Algorithms
 - Interested in hackathons, collaborative development and building useful products.
 - **2nd Runner-Up — M# 2026, MIT Manipal.**
 
-## Experience
-
-**Volunteer Software Developer · Qatar Foundation**  
-*December 2025 – January 2026*
-
-Collaborated with a development team to build and improve a web-based event registration platform serving **5,000+ students across 8 Education City universities**.
-
-`React` `Vue.js` `Node.js`
 
 ## Featured Projects
 
@@ -54,8 +47,8 @@ Collaborated with a development team to build and improve a web-based event regi
 ### [Pomodoro Timer](https://github.com/DevN5197/pomodorotimer)
 **Desktop Productivity Application**
 
-- Developed a lightweight desktop Pomodoro timer for focused study and coding sessions.
-- Built the interface and timer functionality using Python's Tkinter library.
+- Developed a lightweight desktop Pomodoro timer helped me have focused study and coding sessions.
+- Built the interface and timer functionality purely using Python's Tkinter library.
 
 `Python` `Tkinter`
 
@@ -69,41 +62,5 @@ Collaborated with a development team to build and improve a web-based event regi
 
 </div>
 
-## GitHub Statistics
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevN5197&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevN5197&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/DevN5197/RippleM26">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevN5197&repo=RippleM26&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/DevN5197/pomodorotimer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevN5197&repo=pomodorotimer&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevN5197&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Building, learning, and improving — one project at a time.</sub>
-
-</div>
