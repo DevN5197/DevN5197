@@ -54,8 +54,7 @@ I'm a Computer Science undergraduate in my 2nd year at **Sardar Vallabhbhai Nati
 `Python` `Tkinter`
 
 ---
-<img src="koi/koi.gif" width="256" alt="My koi" />
----
+
 
 ## Tech Stack
 
