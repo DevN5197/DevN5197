@@ -21,7 +21,7 @@
 
 I'm a Computer Science undergraduate in my 2nd year at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, interested in building/contributing to stuff that solves actual problems.
 
-- Engineering full-stack applications and systems.
+- Starting with engineering full-stack applications and systems.
 - Exploring various technologies and subdomains in the fields of Computer Science and Technology as a whole.
 - Trying to be better at problem solving by improving my proficiency in Data Structures & Algorithms
 - Interested in hackathons, collaborative development and building useful products.
