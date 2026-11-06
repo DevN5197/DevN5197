@@ -68,3 +68,12 @@ I'm a Computer Science Engineering (CSE) undergraduate in my 2nd year at **Sarda
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,vue,nodejs,fastapi,html,css,mongodb,mysql,git,github,linux&perline=8&theme=dark" />
 
 </div>
+
+---
+
+## What I'm listening to rn
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z5wsl2ndg08eh6hv1ox5t6ruo&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z5wsl2ndg08eh6hv1ox5t6ruo&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
