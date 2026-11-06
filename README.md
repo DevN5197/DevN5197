@@ -1,3 +1,4 @@
+
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
@@ -23,11 +24,10 @@ I'm a Computer Science Engineering (CSE) undergraduate in my 2nd year at **Sarda
 
 - Starting with engineering full-stack applications and systems.
 - Exploring various technologies and subdomains in the fields of Computer Science and Technology as a whole.
-- Trying to be better at problem solving by improving my proficiency in Data Structures & Algorithms
+- Trying to be better at problem solving by improving my proficiency in Data Structures & Algorithms.
 - Interested in hackathons, collaborative development and building useful products.
 - **Runner-Up — Nexus Uncharted '26 (MongoDB Hackathon) - SVNIT**
 - **2nd Runner-Up — M# 2026, MIT Manipal.**
-
 
 ## Featured Projects
 
@@ -45,16 +45,21 @@ I'm a Computer Science Engineering (CSE) undergraduate in my 2nd year at **Sarda
 
 ---
 
-### [Pomodoro Timer](https://github.com/DevN5197/pomodorotimer)
-**Desktop Productivity Application**
+### [DexMind](https://github.com/DevN5197/DexMind/)
+**Grounded RAG-Powered Pokémon Discovery & Battle Intelligence Platform**
 
-- Developed a lightweight desktop Pomodoro timer helped me have focused study and coding sessions.
-- Built the interface and timer functionality purely using Python's Tkinter library.
+<sub>Runner-Up · Nexus Uncharted '26 · MongoDB Hackathon · SVNIT</sub>
 
-`Python` `Tkinter`
+- Built a full-stack Pokémon research platform combining hybrid Retrieval-Augmented Generation (RAG) with deterministic battle intelligence.
+- Engineered a hybrid retrieval pipeline using MongoDB Atlas Vector Search, Keyword Search and Reciprocal Rank Fusion (RRF).
+- Integrated Google Gemini with strict evidence-grounding, clickable source citations and hallucination-abstention guardrails.
+- Developed Pokémon comparison analytics and a deterministic team advisor for type coverage, weaknesses and battle synergy.
+
+`React 19` `TypeScript` `FastAPI` `Python` `MongoDB Atlas` `Gemini API`
+
+[Live Demo](https://dex-mind-pied.vercel.app/) 
 
 ---
-
 
 ## Tech Stack
 
@@ -63,6 +68,3 @@ I'm a Computer Science Engineering (CSE) undergraduate in my 2nd year at **Sarda
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,vue,nodejs,fastapi,html,css,mongodb,mysql,git,github,linux&perline=8&theme=dark" />
 
 </div>
-
-
-
